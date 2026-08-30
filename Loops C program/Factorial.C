@@ -8,7 +8,7 @@ int main(){
         product = product*i;
         printf("the factorial of %d is : %d\n", i, product);
         // inside the loop: printf execute on every iteration and prints 
-        //the value of product after each multiplication from 1 to n.
+        //the value of product after each multiplication from 1 to n .
         
     }
     // printf outside the loop prints only the final value of
