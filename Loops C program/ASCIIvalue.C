@@ -5,5 +5,6 @@ int main(){
         printf("%c -> ",ch);
         printf("%d\n", i);
     }
+    // print ascii value 
     return 0;
 }
