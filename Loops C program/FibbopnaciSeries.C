@@ -15,7 +15,7 @@ int main(){
          b = sum;
 
          // sum = a+b;   a=b;   b = sum;  this order are important because if we change 
-         //the order then the value of sum will be wrong.
+         //the order then the value of sum will be wrong . 
          
      }
      printf ("the fibonacci series of %d is : %d",n,sum);
