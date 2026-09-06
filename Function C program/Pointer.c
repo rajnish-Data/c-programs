@@ -20,7 +20,7 @@ int main(){
     and accesses its value using *x =25.
 
     3. Uses a double pointer 'y' to store the address of pointer 'x' 
-    and accesses the value using **y = 25.
+    and accesses the value using **y = 25..
     
     4. Uses the %p format specifier to print the actual memory addresses in hexadecimal format.
     */
